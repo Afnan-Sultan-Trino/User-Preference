@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  padding: 1rem;
+}
+select {
+  margin: 0 1rem 1rem 0;
+}
+main {
+  background-color: rgb(5, 203, 154);
+  font-size: 16px;
+  padding: 1.1rem;
+}
+p {
+  margin: 1rem;
+}
+button {
+  border: none;
+  border-radius: 0.6rem;
+  padding: 0.5rem;
+}
+button:hover {
+  background-color: red;
+}
